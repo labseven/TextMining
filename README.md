@@ -5,9 +5,10 @@ This is my text mining and analysis project for Software Design at Olin College.
 It uses the music match api to get lyrics of an artist, and then generates new song lyrics from them.
 Why pay shadow writers when a script can do their job?
 
-usage:
+Usage:
 ---
 
+put music match api key into music_match_api_key.txt
 python3 music_match.py <Artist Name>
 
 
