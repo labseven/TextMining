@@ -8,7 +8,7 @@ The hardest problem I ran into was finding a free lyrics api, because lyrics are
 #Results
 
 Adele:
-
+```
 too much Why do you love me
 when you're right in front of me
 valley, it's so shallow and man made
@@ -26,10 +26,10 @@ The start of my hands Your love
 was all you, none of it me
 can see you crystal clear Go ahead
 story to be my keeper But no
-
+```
 
 Beach House:
-
+```
 too weak Got a will that's been
 side Beyond love The first thing that
 we will go far, but they don't
@@ -47,10 +47,10 @@ you In or out you go In
 hide the way We keep these promises,
 then it's dark again Just like a
 we'd be forgiven Our bodies stopped the
-
+```
 
 Queen:
-
+```
 holiday a happy pair they made so
 disease son, I'm in love Play the
 fly like sparrows through the air And
@@ -68,10 +68,10 @@ your heart again  Let me in
 lost their stings There's singing forever Lion's
 of all darkness I'm queen of the
 to waste all your good times Words
-
+```
 
 TV Girl:
-
+```
 too weak Got a will that's been
 side Beyond love The first thing that
 we will go far, but they don't
@@ -89,7 +89,7 @@ you In or out you go In
 hide the way We keep these promises,
 then it's dark again Just like a
 we'd be forgiven Our bodies stopped the
-
+```
 
 #Next Steps
 
